@@ -8,4 +8,4 @@
 ### Data Analysis with Python: House Sales in King County, Washington
 ### Data Visualization with Python: US Domestic Airline Flights Performance and Yearly Average Flight Delay Data
 ### Machine Learning with Python: Customer Loan Data
-### Applied Data Science Capstone
+### Applied Data Science Capstone: Segmenting and Clustering Neighborhoods in Toronto
